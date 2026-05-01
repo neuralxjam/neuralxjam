@@ -9,7 +9,7 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jam.macabata@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/jhamesandrewmacabata/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhamesandrewmacabata/)
 
 </div>
 
@@ -67,7 +67,7 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 ## 📫 Get in Touch
 
 - 📧 **Email**: macabatajhamesandrew.8con@gmail.com
-- 💼 **LinkedIn**: _(add your LinkedIn URL here)_
+- 💼 **LinkedIn**: [jhamesandrewmacabata](https://www.linkedin.com/in/jhamesandrewmacabata/)
 - 🌐 **Portfolio**: _(coming soon — in progress)_
 
 ---
