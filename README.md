@@ -7,9 +7,9 @@
 Building real products: full-stack web apps, data pipelines, and ML models deployed to production.
 Currently open to **entry-level roles** in Software Engineering, Data Engineering, and AI/ML.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:macabatajhamesandrew.8con@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jam.macabata@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/jhamesandrewmacabata/)
 
 </div>
 
@@ -42,11 +42,11 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 
 ## 🚀 Featured Projects
 
-| Project | Domain | Stack | Links |
-|---------|--------|-------|-------|
-| **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](#) · [Code](https://github.com/neuralxjam/jobtrail) |
-| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard | Data Eng | Python · DuckDB · dbt · Streamlit | [Live Demo](#) · [Code](https://github.com/neuralxjam/cryptopulse) |
-| **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](#) · [Code](https://github.com/neuralxjam/staysure) |
+| Project                                                                                                                                       | Domain       | Stack                                  | Links                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- | ------------------------------------------------------------------ |
+| **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering                      | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](#) · [Code](https://github.com/neuralxjam/jobtrail)    |
+| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](#) · [Code](https://github.com/neuralxjam/cryptopulse) |
+| **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML      | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](#) · [Code](https://github.com/neuralxjam/staysure)    |
 
 > 🔨 All three projects are currently under active development.
 
@@ -67,13 +67,13 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 ## 📫 Get in Touch
 
 - 📧 **Email**: macabatajhamesandrew.8con@gmail.com
-- 💼 **LinkedIn**: *(add your LinkedIn URL here)*
-- 🌐 **Portfolio**: *(coming soon — in progress)*
+- 💼 **LinkedIn**: _(add your LinkedIn URL here)_
+- 🌐 **Portfolio**: _(coming soon — in progress)_
 
 ---
 
 <div align="center">
 
-*Building one commit at a time.*
+_Building one commit at a time._
 
 </div>
