@@ -7,8 +7,8 @@
 Building real products: full-stack web apps, data pipelines, and ML models deployed to production.
 Currently open to **entry-level roles** in Software Engineering, Data Engineering, and AI/ML.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jam.macabata@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neuralxjam.github.io-1e293b?style=flat-square&logo=githubpages&logoColor=white)](https://neuralxjam.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:jam.macabata@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhamesandrewmacabata/)
 
 </div>
@@ -44,11 +44,11 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 
 | Project                                                                                                                                       | Domain       | Stack                                  | Links                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- | ------------------------------------------------------------------ |
-| **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering                      | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](#) · [Code](https://github.com/neuralxjam/jobtrail)    |
-| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](https://cryptopulse.streamlit.app) · [Code](https://github.com/neuralxjam/cryptopulse) |
-| **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML      | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](#) · [Code](https://github.com/neuralxjam/staysure)    |
+| **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering                      | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](https://jobtrail-0gza.onrender.com) · [Write-up](https://neuralxjam.github.io/projects/jobtrail) · [Code](https://github.com/neuralxjam/jobtrail)    |
+| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](https://cryptopulse.streamlit.app) · [Write-up](https://neuralxjam.github.io/projects/cryptopulse) · [Code](https://github.com/neuralxjam/cryptopulse) |
+| **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML      | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](https://huggingface.co/spaces/neuralxjam/staysure) · [Write-up](https://neuralxjam.github.io/projects/staysure) · [Code](https://github.com/neuralxjam/staysure)    |
 
-> JobTrail and CryptoPulse are live. StaySure is under active development.
+> All three projects are **live and shipping**. Full write-ups (architecture, lessons learned) on the [portfolio site](https://neuralxjam.github.io).
 
 ---
 
@@ -66,9 +66,9 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 
 ## 📫 Get in Touch
 
-- 📧 **Email**: macabatajhamesandrew.8con@gmail.com
+- 🌐 **Portfolio**: [neuralxjam.github.io](https://neuralxjam.github.io)
+- 📧 **Email**: jam.macabata@outlook.com
 - 💼 **LinkedIn**: [jhamesandrewmacabata](https://www.linkedin.com/in/jhamesandrewmacabata/)
-- 🌐 **Portfolio**: _(coming soon — in progress)_
 
 ---
 
