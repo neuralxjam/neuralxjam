@@ -45,10 +45,10 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 | Project                                                                                                                                       | Domain       | Stack                                  | Links                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- | ------------------------------------------------------------------ |
 | **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering                      | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](#) · [Code](https://github.com/neuralxjam/jobtrail)    |
-| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](#) · [Code](https://github.com/neuralxjam/cryptopulse) |
+| **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](https://cryptopulse.streamlit.app) · [Code](https://github.com/neuralxjam/cryptopulse) |
 | **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML      | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](#) · [Code](https://github.com/neuralxjam/staysure)    |
 
-> 🔨 All three projects are currently under active development.
+> JobTrail and CryptoPulse are live. StaySure is under active development.
 
 ---
 
