@@ -47,8 +47,10 @@ Currently open to **entry-level roles** in Software Engineering, Data Engineerin
 | **[JobTrail](https://github.com/neuralxjam/jobtrail)** — Job application tracker with auth, dashboard & status filtering                      | Software Eng | FastAPI · PostgreSQL · HTMX · Tailwind | [Live Demo](https://jobtrail-0gza.onrender.com) · [Write-up](https://neuralxjam.github.io/projects/jobtrail) · [Code](https://github.com/neuralxjam/jobtrail)    |
 | **[CryptoPulse](https://github.com/neuralxjam/cryptopulse)** — Automated ETL pipeline: CoinGecko → DuckDB → dbt → Streamlit dashboard         | Data Eng     | Python · DuckDB · dbt · Streamlit      | [Live Demo](https://cryptopulse.streamlit.app) · [Write-up](https://neuralxjam.github.io/projects/cryptopulse) · [Code](https://github.com/neuralxjam/cryptopulse) |
 | **[StaySure](https://github.com/neuralxjam/staysure)** — Hotel booking cancellation predictor with SHAP explainability, deployed on HF Spaces | AI / ML      | scikit-learn · XGBoost · SHAP · Gradio | [Live Demo](https://huggingface.co/spaces/neuralxjam/staysure) · [Write-up](https://neuralxjam.github.io/projects/staysure) · [Code](https://github.com/neuralxjam/staysure)    |
+| **[Edge (8ConEdge)](https://github.com/neuralxjam/Edge)** — CS thesis: full-stack forex trading SaaS with embedded ML pair-ranking, role + tier access | Full-Stack + ML | React 19 · Express 5 · Flask · MySQL · Docker | [Live Site](http://8conedge.com/) · [Write-up](https://neuralxjam.github.io/projects/edge) · [Code](https://github.com/neuralxjam/Edge) |
+| **[MiniLink](https://github.com/neuralxjam/minilink)** — Containerized URL shortener with redirect analytics, multi-stage Docker build, CI/CD to GHCR | DevOps | FastAPI · PostgreSQL · Redis · Docker · Railway | [Live Demo](https://minilink-production.up.railway.app) · [Write-up](https://neuralxjam.github.io/projects/minilink) · [Code](https://github.com/neuralxjam/minilink) |
 
-> All three projects are **live and shipping**. Full write-ups (architecture, lessons learned) on the [portfolio site](https://neuralxjam.github.io).
+> All five projects are **live and shipping**. Full write-ups (architecture, lessons learned) on the [portfolio site](https://neuralxjam.github.io).
 
 ---
 
